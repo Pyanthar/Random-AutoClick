@@ -10,4 +10,4 @@ Once you've clicked on Activate, you will need to press the Verr.maj button to a
 Here is the .exe file if you just want to use it :
 https://drive.google.com/file/d/1c9PLLCf7mSbIDng9XcP5Ari9HbjrnVv_/view?usp=sharing
 
-I'm sorry if there is any misspellings, i'm French.
+
